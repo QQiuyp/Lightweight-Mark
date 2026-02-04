@@ -248,5 +248,5 @@ If you find this work useful, please cite our paper:
 
 For questions or issues, please open a GitHub issue or contact:
 
-- 👨‍💻 **Yupeng Qiu** - [qiuyupeng1999@gmail.com](mailto:qiuyupeng1999@gmail.com)
+- 👨‍💻 **Yupeng Qiu** - [qiuyupeng1999@gmail.com](mailto:qiu_yupeng@u.nus.edu)
 
